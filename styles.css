@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 244, 235);
+}
+
+.child-box1 {
+  width: 1500px;
+  height: 150px;
+  color: #3e4b8e;
+  background-color: #a6bcc9;
+  margin: 0 auto;          
+  border-radius: 15px;   
+  margin-top: 25px;
+}
+
+
+
+.container2 {
+  display: flex;       
+  justify-content: center;      
+  align-items: center; 
+  min-height: 90vh;            
+}
+.child-box2 {
+  width: 1400px;        
+  height: 650px;      
+  background-color: #f6e0b6; 
+  color: red;   
+  padding: 40px;  
+  border-radius: 15px;     
+}
